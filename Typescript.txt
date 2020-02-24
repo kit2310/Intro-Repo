@@ -1,0 +1,4 @@
+Typescript compiler options
+	- noEmit : do not emit outputs
+	- sourceMap : generates corresponding '.map' file
+	- 
